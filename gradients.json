@@ -1532,5 +1532,9 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
+    },
+    {
+        "name": "NJHRC 1",
+        "colors": ["#08bdbd", "#00a3b4", "#0089a5", "#0d7092", "#22577a"]
     }
 ]
